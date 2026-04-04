@@ -26,13 +26,6 @@ python .\rainbow-cli-4-windows.py
 
 The terminal is cleared before launch so the interface starts cleanly.
 
-## Installation
-
-This project does not currently require external Python packages.
-
-```powershell
-python -m pip install -r .\requirements.txt
-```
 
 ## Controls
 
